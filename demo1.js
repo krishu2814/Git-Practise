@@ -14,3 +14,4 @@ todo("Task 2");
 todo("Task 3");
 
 console.log("All tasks are scheduled");
+console.log("End of the program");
